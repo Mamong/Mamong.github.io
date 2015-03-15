@@ -3,13 +3,16 @@ layout: default
 single: true
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">{% include article.html %}</article>
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">{% include article.html %}<br>
+<br>原创文章，版权声明：自由转载-非商用-非衍生-保持署名 | <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh">Creative Commons BY-NC-ND 3.0</a></br>
+</article>
 {% unless page.sharing == false %}
 	{% include post/sharing.html %}
 {% endunless %}
 {% if site.disqus_short_name and page.comments == true %}
 <section id="comment">
     <h1 class="title">Comments</h1>
-    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+    <!--div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div-->
+    <div id="comments" aria-live="polite">{% include post/comments.html %}</div>
 </section>
 {% endif %}
