@@ -64,7 +64,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: Mamong
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
@@ -102,3 +102,6 @@ facebook_like: false
 
 # Sina weibo
 weibo_share: true
+
+# avatar
+email_md5: true
