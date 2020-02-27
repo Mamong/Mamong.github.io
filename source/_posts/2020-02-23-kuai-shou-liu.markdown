@@ -3,7 +3,7 @@ layout: post
 title: "快手刘"
 date: 2020-02-23 21:49:48 +0800
 comments: true
-categories: ["国内文学"]
+categories: ["中国文学"]
 author: 冯骥才
 digest: 
 wc: 3769
