@@ -164,7 +164,11 @@ ERR
     #
     def category_link(category)
       dir = @context.registers[:site].config['category_dir']
-      "<a class='category' href='/#{dir}/#{category.to_url}/'>#{category}</a>"
+      "<a class='category' href='/#{dir}/#{category.to_url.downcase}/'>#{category}</a>"
+    end
+
+    def category_pinyin(category)
+      category.to_url.downcase
     end
 
     # Outputs the post.date as formatted html, with hooks for CSS styling.
