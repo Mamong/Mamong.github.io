@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://mamong.github.io/blog/2020/02/27/dai-shu-jia-ri/</loc>
+<lastmod>2020-02-27T17:22:36+08:00</lastmod>
+</url>
+<url>
+<loc>http://mamong.github.io/blog/2020/02/26/bo-xin/</loc>
+<lastmod>2020-02-26T17:21:34+08:00</lastmod>
+</url>
+<url>
 <loc>http://mamong.github.io/blog/2020/02/25/zai-hei-an-zhong-bing-jian-xing-zou/</loc>
 <lastmod>2020-02-25T20:44:55+08:00</lastmod>
 </url>
@@ -25,12 +33,9 @@
 <loc>http://mamong.github.io/blog/categories/</loc>
 </url>
 <url>
-<loc>http://mamong.github.io/blog/categories/guo-nei-wen-xue/</loc>
+<loc>http://mamong.github.io/blog/categories/zhong-guo-wen-xue/</loc>
 </url>
 <url>
 <loc>http://mamong.github.io/blog/categories/wai-guo-wen-xue/</loc>
-</url>
-<url>
-<loc>http://mamong.github.io/blog/categories/zhong-guo-wen-xue/</loc>
 </url>
 </urlset>
