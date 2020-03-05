@@ -3,7 +3,7 @@ layout: post
 title: "袋鼠佳日"
 date: 2020-02-27 17:22:36 +0800
 comments: true
-categories: 
+categories: ["外国文学"]
 author: "村上春树"
 digest: 
 wc: 1951
